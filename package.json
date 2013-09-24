@@ -1,6 +1,6 @@
 {
-  "name": "bookoo",
-  "description": "indonesian book scraper (book meta search)",
+  "name": "node-socket-express-jade",
+  "description": "starting template for developing with NodeJS, Socket.io, Express, Jade",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
